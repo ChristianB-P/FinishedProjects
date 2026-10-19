@@ -2,4 +2,4 @@
 
 # ElectroEdge 1.0
 ElectroEdge is a Review App for Computer Engineering Students
-You can download the latest version of the APK from the [Releases page](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases/latest).
+You can download the latest version of the APK from the [Releases page](https://github.com/ChristianB-P/FinishedProjects/releases/tag/Project-1).
